@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "182801628797",
+    "project_id": "sleep-hush",
+    "storage_bucket": "sleep-hush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182801628797:android:2a59f90e71c15738e13b14",
+        "android_client_info": {
+          "package_name": "com.example.classmad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182801628797-3ol8dg66vil94jhtcaqarc5mo1c8lonc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlXp4cMQ00RcMAJzqBVd5Yonp2_jUG5T8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182801628797-3ol8dg66vil94jhtcaqarc5mo1c8lonc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182801628797-9jlusbaippseln35tfqbnbvbu56ko2fl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.classmad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
